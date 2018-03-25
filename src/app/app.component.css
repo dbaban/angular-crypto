@@ -1,0 +1,13 @@
+
+div#crypto-container{
+    background :white;
+    width:70%;
+    padding: 1em;
+    margin: 0 auto 4px auto;
+}
+span.left{
+    font-weight:bold;
+}
+span.right{
+    float:right;
+}
